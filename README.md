@@ -45,7 +45,8 @@ You must provide the following artifacts:
 
 - Make sure your instructions are easy to follow and that each step works as expected;
 - Our main environment is Windows, so please make sure that your solution works on it;
-- We suggest you implement the challenge using the following languages (you can use more than one of them if you want): C#, Java, JavaScript, and/or Python;
+- If you want, you can show us how you can set up your project using Docker;
+- We suggest you implement the challenge using the following languages (you can use more than one of them if you want): C#, Java, and/or JavaScript;
 - Testing is more than welcome;
 - Show us everything you know about best practices in Git;
 - Think carefully about your code quality, in terms of maintainability, readability, and simplicity;
