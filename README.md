@@ -23,8 +23,8 @@ Then, you are asked to write a program to read the input files for the dataset a
 The second goal of this challenge is to make the processed data available for consumption.
 
 To do such, you must implement a REST API and it should provide the following methods:
-- List movies by title: given a title, we want to know what movie titles match the given title;
-- List movies by title and genre: given a title and a genre, we want to know what movie titles match the given title and are of the given genre;
+- List movies by year: given a year, we want to know what movies match the given year;
+- List movies by year and genre: given a year and a genre, we want to know what movies match the given year and are of the given genre;
 - List top K rated movies: given a number K, we want to know the best K rated movies in descending order.
 
 ## Consuming the Data
@@ -45,7 +45,7 @@ You must provide the following artifacts:
 
 - Make sure your instructions are easy to follow and that each step works as expected;
 - Our main environment is Windows, so please make sure that your solution works on it;
-- We suggest you implement the challenge using the following languages (you can use more than one of them if you want): C#, Java, and or Python;
+- We suggest you implement the challenge using the following languages (you can use more than one of them if you want): C#, Java, JavaScript, and/or Python;
 - Testing is more than welcome;
 - Show us everything you know about best practices in Git;
 - Think carefully about your code quality, in terms of maintainability, readability, and simplicity;
